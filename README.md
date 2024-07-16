@@ -27,13 +27,12 @@ nltk.download('vader_lexicon')
 
 python conversation_analysis.py
 
-
-##The script will output:
+## The script will output:
 
 A summary of the conversation
 Key actions extracted from the conversation
 Sentiment analysis for each line of dialogue
 
-##Note:
+## Note:
 
 This project is part of an AI Engineering assignment focused on natural language processing tasks in Hindi. The code demonstrates skills in text summarization, information extraction, and sentiment analysis.
