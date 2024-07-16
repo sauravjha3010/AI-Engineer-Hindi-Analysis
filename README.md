@@ -22,9 +22,11 @@ This project analyzes a conversation in Hindi between a recovery agent and a bor
 3. Download the necessary NLTK data:
 import nltk
 nltk.download('vader_lexicon')
+
+##Run the script
 python conversation_analysis.py
 
-#The script will output:
+##The script will output:
 A summary of the conversation
 Key actions extracted from the conversation
 Sentiment analysis for each line of dialogue
